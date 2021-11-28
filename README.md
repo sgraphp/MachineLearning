@@ -11,4 +11,4 @@ datasetはhttps://fx.sauder.ubc.ca//data.htmlよりdownloadした．
 
 #Role  
 実装 : 川畑 祐人  
-
+誤差のグラフ作成 : 清家 大知
